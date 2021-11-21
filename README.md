@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @whosjstin
+- 👀 I’m interested in programmin/coding
+- 🌱 I’m currently learning Java
+- 📫 How to reach me insta @whosjstin
