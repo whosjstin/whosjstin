@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @whosjstin
 - 👀 I’m interested in programmin/coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me insta @whosjstin
